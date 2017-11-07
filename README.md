@@ -1,7 +1,7 @@
 # nand2tetris
 Project Files from The Elements of Computing System by Noam Nisan and Shimon Schocken
 
-#site
+# site
 http://www.nand2tetris.org/
 
 # disclaimer
